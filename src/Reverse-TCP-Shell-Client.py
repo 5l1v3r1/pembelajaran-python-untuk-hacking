@@ -1,6 +1,3 @@
-# Python For Hackers
-# Reverse TCP shell - Client Side
-# www.youtube.com/priyankgada
 import socket                     # For starting TCP connection
 import subprocess                 # To start the shell in the system
 
