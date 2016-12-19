@@ -1,5 +1,5 @@
 #Simple Port Scanner
-#www.youtube.com/priyankgada
+
 import socket
 import subprocess
 import sys
