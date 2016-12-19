@@ -1,8 +1,3 @@
-# Python For Hackers - Priyank Gada
-# Downloading Data TCP Shell - Server Side .
-# www.youtube.com/priyankgada
-
-
 import socket 
 import os      # Again OS Like in the client side for file operations.
 
@@ -54,4 +49,4 @@ def connect():
 def main ():
     connect()
 main()
-#end :) Subscribe to my channel.
+
