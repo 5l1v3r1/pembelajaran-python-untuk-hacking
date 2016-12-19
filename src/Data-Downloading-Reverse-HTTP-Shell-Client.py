@@ -1,7 +1,3 @@
-# Python For hackers - Priyank Gada
-# www.youtube.com/priyankgada
-# Data Grabbing Shell - HTTP - CLient
-
 import requests 
 import subprocess 
 import os
