@@ -1,6 +1,3 @@
-# Python for Hackers - priyank Gada
-# www.youtube.com/priyankgada
-
 import socket    # For Building TCP Connection -- AF_INET
 def connect():
     
