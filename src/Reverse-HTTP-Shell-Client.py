@@ -1,9 +1,3 @@
-# Python For Hackers : Priyank Gada
-#www.youtube.com/priyankgada
-# Reverse - HTTP- Shell - Client 
-# watch tutorial first. 
-#install requests library .
-
 import requests     # imports request library 
 import subprocess #system operations
 import time    #import time lib
