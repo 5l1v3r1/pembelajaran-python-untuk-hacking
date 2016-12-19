@@ -1,7 +1,3 @@
-# Python For Hackers : Priyank Gada
-#www.youtube.com/priyankgada
-#Reverse HTTP Shell Server .
-
 import BaseHTTPServer   # Used to make HTTP server 
 
 HOST_NAME = '10.10.10.10'   # Server IP
