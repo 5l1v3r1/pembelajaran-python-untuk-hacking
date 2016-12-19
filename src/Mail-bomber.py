@@ -1,6 +1,3 @@
-#www.youtube.com/priyankgada
-#mail bomber - Python For Hackers - Priyank Gada
-
 import smtplib  #for SMTP Protocol 
 import mimetypes #converts URL
 import sys #for System
@@ -54,4 +51,4 @@ if __name__ == '__main__':
       s.title()
       s.SMTPconnect()
       s.buildemail()
-# End :) Happy Hacking :) subscribe - Youtube.com/priyankgada :)
+
