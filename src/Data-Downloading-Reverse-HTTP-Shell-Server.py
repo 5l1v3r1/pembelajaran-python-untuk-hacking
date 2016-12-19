@@ -1,8 +1,3 @@
-# Python For Hackers - Priyank Gada
-# www.youtube.com/priyankgada
-# Data Downloading Reverse HTTP Shell - Server
-
-
 import BaseHTTPServer
 
 import os, cgi
