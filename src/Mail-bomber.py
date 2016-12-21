@@ -44,8 +44,8 @@ class SMTP(object):
                   x+=1
             print "Send %d messages to %s" %(self.ammount,self.To)
             time.sleep(7)
-            print "Thnx for using Mycode!\nhttp://facebook.com/webmaster.pg\n"
-            print " Subscribe :) www.youtube.com/priyankgada "
+            print "Thnx for using Mycode!"
+            print "Visit https://errorcybernews.com"
 if __name__ == '__main__':
       s = SMTP()
       s.title()
