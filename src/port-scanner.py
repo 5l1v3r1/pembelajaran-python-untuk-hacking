@@ -39,4 +39,4 @@ t2 = datetime.now() #get current Time as t2
 total =  t2 - t1 #total Time required to Scan
 # Time Required 
 print 'Scanning Completed in: ', total
-# The end :PPPPP SUBSCRIBE please share with your friends
+# The end :P please share to your friends
