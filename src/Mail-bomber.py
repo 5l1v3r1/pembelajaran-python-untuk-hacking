@@ -217,17 +217,19 @@ def copyrights():
  
  ############################################
  #                                          #
- #        Diciptakan untuk 'Evil Web'       #
+ #              Tentang saya?               #
  #                                          #
  ============================================
  |                                          |
- |       - Author: Kernel-Panic             |
+ |     - Author: Kernel-Panic               |
  |                                          |
- |       - Type: Python --Open-Source.      |
+ |     - Kontak: kernel_panic@mail2tor.com  |
  |                                          |
- |       - Free for use.                    |
+ |     - Type: Python --Open-Source.        |
  |                                          |
- |       - https://errorcybernews.com       |
+ |     - Free for use.                      |
+ |                                          |
+ |     - https://errorcybernews.com         |
  |                                          |
  ============================================
     """
